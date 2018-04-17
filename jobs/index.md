@@ -1,4 +1,4 @@
-# [Software Engineer, Infrastructure](https://www.facebook.com/careers/jobs/a0I1H00000LCHquUAH/?q=engineer&location=boston)
+# ![](logo-fb.png | width=100) [Software Engineer, Infrastructure](https://www.facebook.com/careers/jobs/a0I1H00000LCHquUAH/?q=engineer&location=boston)
 
 **Facebook**
 
